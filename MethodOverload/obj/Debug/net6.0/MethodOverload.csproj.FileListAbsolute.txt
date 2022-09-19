@@ -1,0 +1,15 @@
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.csproj.AssemblyReference.cache
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.AssemblyInfoInputs.cache
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.AssemblyInfo.cs
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.csproj.CoreCompileInputs.cache
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/bin/Debug/net6.0/MethodOverload
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/bin/Debug/net6.0/MethodOverload.deps.json
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/bin/Debug/net6.0/MethodOverload.runtimeconfig.json
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/bin/Debug/net6.0/MethodOverload.dll
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/bin/Debug/net6.0/MethodOverload.pdb
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.dll
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/obj/Debug/net6.0/refint/MethodOverload.dll
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.pdb
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/obj/Debug/net6.0/MethodOverload.genruntimeconfig.cache
+/Users/deucey1tap/Desktop/repos/MethodOverloading/Overloads/MethodOverload/MethodOverload/obj/Debug/net6.0/ref/MethodOverload.dll
